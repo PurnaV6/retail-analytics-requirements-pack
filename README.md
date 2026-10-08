@@ -20,6 +20,8 @@ has no test.
 | 4 | [Traceability matrix](docs/04-traceability-matrix.md) | Requirement -> story -> implementation -> test, with coverage gaps |
 | 5 | [Information flows](docs/05-information-flows.md) | Interface catalogue and data-flow diagram for supply and demand information |
 | 6 | [Product roadmap](docs/06-product-roadmap.md) | Delivered, next and later items with priorities, dependencies, acceptance criteria and intended outcomes |
+| 7 | [Options, feasibility, impact and business case](docs/07-options-feasibility-and-business-case.md) | Weighted options analysis, feasibility and impact assessments, value estimation with stated assumptions, outcome measures, delivery-method comparison |
+| 8 | [Responsible AI assessment](docs/08-responsible-ai-assessment.md) | Privacy, error measured by store and by promotion status, bias, transparency, human oversight, limitations, accountability |
 
 ## Why a pack like this matters
 
